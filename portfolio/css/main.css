@@ -1,0 +1,71 @@
+body {
+    font-family: "Monofett", cursive;
+	color: black;
+    font-weight: 300;
+}
+
+img {
+	width: 100%;
+	max-width: 100%;
+}
+
+.text-muted {
+	color: black;
+	font-size: 35px;
+}
+
+.text-thin {
+	font-weight: 100;
+}
+
+.title-super {
+	font-size: 60px;
+}
+
+.max-things {
+	max-width: 100%;
+}
+
+.space {
+	padding: 10px;
+}
+
+.muchspace {
+	padding-top: 45px;
+}
+
+.spaceleft {
+	padding-left: 20px
+}
+
+.social-networks {
+	color: white;
+	font-size: 25px;
+	padding-right: 16px;
+}
+
+.icelight-heading {
+	font-family: "Monofett", cursive;
+	color: black;
+	font-size: 60px;
+}
+
+.jerry-heading {
+	font-size: 30px;
+}
+
+#hr-border {
+	border-width: 3px;
+}
+
+#paragraph-text {
+	font-size: 25px;
+}
+
+#footer-info {
+	font-size: 20px;
+	float: right;
+	padding-left: 800px;
+	font-family: 'Modak', cursive;
+}
+

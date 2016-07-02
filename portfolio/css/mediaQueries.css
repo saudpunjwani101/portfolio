@@ -1,0 +1,92 @@
+
+ @media screen and (min-width: 320px) and (max-width: 1200px) {
+ 	.navbar-center {
+ 		display: inline-block;
+ 		float: center;
+ 		padding-left: 30px;
+ 	}
+
+ 	#paragraph-text {
+ 		font-size: 11px;
+ 	}
+
+ 	#footer-info {
+ 		font-size: 15px;
+ 		padding-left: 40px;
+ 	}
+ }
+
+ @media screen and (min-width: 472px) {
+ 	.navbar-center {
+ 		display: inline-block;
+ 		float: left;
+ 		padding-left: 70px;
+ 	}
+
+ 	#paragraph-text {
+ 		font-size: 15px;
+ 	}
+
+ 	#footer-info {
+ 		font-size: 15px;
+ 	}
+ }
+
+ @media screen and (min-width: 768px) {
+ 	.navbar-center {
+		text-align: right;
+		float: center;
+		padding-left: 145px;
+	}
+
+
+ 	#paragraph-text {
+ 		font-size: 20px;
+ 	}
+ }
+
+ @media screen and (min-width: 800px) {
+ 	.navbar-center {
+		text-align: right;
+		float: center;
+		padding-left: 130px;
+	}
+
+	#paragraph-text {
+ 		font-size: 20px;
+ 	}
+ }
+
+ @media screen and (min-width: 992px) {
+ 	.navbar-center {
+		text-align: right;
+		float: center;
+		padding-left: 180px;
+	}
+
+	#paragraph-text {
+ 		font-size: 25px;
+ 	}
+
+ 	#footer-info {
+ 		padding-left: 700px;
+ 		font-size: 15px;
+ 	}
+ }
+
+ @media screen and (min-width: 1200px) {
+ 	.navbar-center {
+		text-align: right;
+		float: center;
+		padding-left: 245px;
+	}
+
+	#paragraph-text {
+ 		font-size: 25px;
+ 	}
+
+ 	#footer-info {
+ 		font-size: 17px;
+ 		padding-left: 750px;
+ 	}
+ }
